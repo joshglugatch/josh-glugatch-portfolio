@@ -5,6 +5,6 @@ The goal of the template is to match the layout and features of the example imag
 
 Example Images      |        My Webpage
 --------------      |      --------------
-![ex index](assets/hw-photos/resize-index.png)|![my index]()
-![ex contact](assets/hw-photos/resize-portfolio.png)|![my contact]()
-![ex portfolio](assets/hw-photos/resize-contact.png)|![my portfolio]()
+![ex index](assets/hw-photos/resize-index.png)|![my index](assets/hw-photos/my-index.png)
+![ex contact](assets/hw-photos/resize-portfolio.png)|![my contact](assets/hw-photos/my-portfolio-resize.png)
+![ex portfolio](assets/hw-photos/resize-contact.png)|![my portfolio](assets/hw-photos/my-contact.png)
