@@ -1,4 +1,4 @@
-# Portfolio Demo 
+# Josh Glugatch Portfolio
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.mit.edu/~amini/LICENSE.md)
 
 This is a template I have created of a portfolio webpage. It was made using bootstrap in html and references bootstrap stylesheets. Processes involved creating a functional navbar to navigate between pages, using bootstrap grid system to position elements, and creating a responsive webpage for different viewports. 
