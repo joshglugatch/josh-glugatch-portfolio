@@ -9,8 +9,9 @@ Welcome to my portfolio! On my page you will find some info about me and the pro
 <br>
 
 # Built With:
-* HTML (layout with Bootstrap)
-* CSS (stylings within HTML and Bootsrap cdn)
+* HTML 
+* CSS 
+* Express
 
 <br>
 
